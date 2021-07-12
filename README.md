@@ -4,7 +4,7 @@
 
 ## Module Lexikon
 
-#### for XOOPS 2.5.8
+#### for XOOPS 2.5.9
 
 Module Version 1.52
 
@@ -14,7 +14,7 @@ Tutorial Version 1.0
 
 ### User Manual
 
-© 2016 XOOPS Project \([www.xoops.org](https://xoops.org)\)
+© 2018 XOOPS Project \([www.xoops.org](https://xoops.org)\)
 
 ### Module Purpose
 
@@ -22,7 +22,7 @@ This module module to create a glossary ordered by category, with users particip
 
  _Figure 1: Main view of the Lexikon Module \(Admin side\)_
 
-![image001.png](.gitbook/assets/image001.png)
+![](.gitbook/assets/image001.png)
 
 ### Download/Fork the Module ![](https://xoops.org/images/forkit.png)
 

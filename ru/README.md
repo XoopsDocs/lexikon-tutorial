@@ -1,5 +1,5 @@
 ### _XOOPS Documentation Series_
-![logoXoops.jpg](assets/logoXoops.jpg)
+![](assets/logoXoops.jpg)
 
 # Модуль Lexikon
 #### для XOOPS 2.5.8
@@ -8,17 +8,17 @@
 
 Учебное пособие по версии 1.0
       
-![logoModule.png](assets/logoModule.png)
+![](assets/logoModule.png)
             
 ## Руководство пользователя
 
-© 2017 XOOPS Project ([www.xoops.org](https://xoops.org))  
+© 2018 XOOPS Project ([www.xoops.org](https://xoops.org))  
 
 ## Назначение модуля 
 
 Модуль предназначен для создания глоссария упорядоченного по категориям, с привлечением пользователей, которые - на основании разрешений - могут предстовлять термины, определения и создавать новые записи.
 
-![image001.png](assets/image001.png)
+![](assets/image001.png)
 *Фигура 1: Общий вид модуля Lexikon (Admin сторона)*
 
 ## Загрузить модуль ![](https://xoops.org/images/forkit.png) 
